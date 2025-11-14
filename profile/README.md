@@ -1,5 +1,5 @@
 <p align="center">
-  <i:contentReference[oaicite:0]{index=0}berus-Inc/assets/main/logo.png" width="160" alt="Cerberus Logo">
+  <i:contentReference[oaicite:0]{index=0}berus-Inc/main/logo.png" width="160" alt="Cerberus Logo">
 </p>
 
 <h1 align="center">CERBERUS INC</h1>
