@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Cerberus-Inc/assets/main/logo.png](https://raw.githubusercontent.com/Cerberus-Inc/.github/main/assets/logo.png)" width="160" alt="Cerberus Logo">
+  <img src="https://raw.githubusercontent.com/Cerberus-Inc/.github/main/assets/logo.png" width="160" alt="Cerberus Logo">
 </p>
 
 <h1 align="center">CERBERUS INC</h1>
